@@ -1,0 +1,70 @@
+
+// Override main text color globally
+
+
+/*
+body,
+body p,
+body li,
+body span,
+body div {
+  color: #862633 !important;  // Replace with your desired text color
+}
+*/
+
+$scu-red: #862633;
+$navy-blue: #000080;
+$steel-blue: #4682B4;
+$scu-blue: #5B6770;
+$scu-green: #737B4C;
+$scu-yellow: #EAAA00;
+
+.page__content p {
+  color: $darker-gray !important;
+}
+
+.page__content a {
+  color: $scu-red !important;
+}
+
+.page__content a:hover {
+  color: $scu-blue !important;
+}
+
+.page__title, .page__title a {
+  color: $scu-red !important;
+}
+
+.page__content h1, h2, h3 {
+  color: $scu-red !important;
+}
+
+.masthead__menu-item a {
+  color: $scu-red !important;
+}
+
+/* 
+.masthead__menu-item a::after {
+  background-image: none !important;
+}
+
+.masthead__menu-item a:hover {
+  color: $scu-yellow !important;
+  background-image: linear-gradient($scu-blue, $scu-blue) !important;
+  background-position: 0 100% !important;
+  background-repeat: no-repeat !important;
+  background-size: 100% 0.1em !important;
+  //border-bottom-color: $scu-blue !important;
+}
+
+.masthead_menu-item a {
+  transition: background-size 0.3s ease;
+}
+
+*/
+
+.page__footer {
+  background-color: $scu-red !important;
+}
+
+

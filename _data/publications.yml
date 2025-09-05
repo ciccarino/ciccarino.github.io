@@ -1,0 +1,212 @@
+
+- year: 2024
+  title: "Non-trivial quantum geometry and the strength of electron-phonon coupling" 
+  authors: "Yu, J., Ciccarino, C.J., Bianco, R., Errea, I., Narang, P., Bernevig, B.A."
+  journal: "Nature Physics"
+  doi: "https://www.nature.com/articles/s41567-024-02486-0"
+  volume: 20
+  pages: "1262-1268"
+  month: 5 
+
+- year: 2022
+  title: "Unconventional non-local relaxation dynamics in a twisted trilayer graphene moire superlattice"
+  authors: "Halbertal, D.<sup>★</sup>, Turkel, S.<sup>★</sup>, Ciccarino, C.J., Profe, J.B., Finney, N., Hsieh, V., Watanabe, K., Taniguchi, T.,
+  Hone, J., Dean, C., Narang, P, Pasupathy, A.B., Kennes, D.M., Basov, D.N."
+  journal: "Nature Communications"
+  doi: "https://www.nature.com/articles/s41467-022-35213-5"
+  volume: 13
+  number: 7587
+  month: 12 
+
+- year: 2022
+  title: "Mid- to Far-Infrared Anistropic Dielectric Function of HfS<sub>2</sub> and HfSe<sub>2</sub>"
+  authors: "Kowalski, R.A., Ryan Nolen, J., Varnavides, G., Mika Silva, S., Allen, J.E., Ciccarino, C.J., Juraschek, D.M., Law, S., Narang, P., Caldwell, J.D."
+  volume: 10
+  number: 2200933
+  journal: "Advanced Optical Materials"
+  issue: 23
+  month: 9 
+  doi: "https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.202200933"
+
+- year: 2021 
+  title: "Local Lattice Dynamics in Hexagonal Boron Nitride Moire Superlattices"
+  authors: "Moore, S., Ciccarino, C.J., Halbertal, D., McGilly, L., Finney, N., Yao, K., Shao, Y., Ni, G., Sternbach, A., Telford, E., Kim, B., Pasupathy, A., Dean, C., Hone, J., Schuck, P.J., Fogler, M., Narang, P., Basov, D.N."
+  journal: "Nature Communcations"
+  volume: 12
+  number: 5741
+  month: 9
+  doi: "https://www.nature.com/articles/s41467-021-26072-7"
+
+- year: 2021
+  title: "Capturing 3D atomic defects and phonon localization at the 2D heterostructure interface"
+  authors: "Tian, X., Yan, X., Varnavides, G., Yuan, Y., Kim, D.S., Ciccarino, C.J., Anikeeva, P., Li, M.-Y., Li, L.-J., Narang, P. Fan, X., Miao, J."
+  journal: "Science Advances"
+  volume: 7
+  number: eabi6699
+  issue: 38
+  month: 9
+  doi: "https://www.science.org/doi/10.1126/sciadv.abi6699"
+
+- year: 2021
+  title: "Hybridized defects in solid-state materials as artificial molecules"
+  authors: "Wang, D.S.<sup>★</sup>, Ciccarino, C.J.<sup>★</sup>, Flick, J., Narang, P."
+  journal: "ACS Nano"
+  volume: 15
+  issue: 3
+  pages: "5240-5248"
+  month: 2
+  doi: "https://pubs.acs.org/doi/abs/10.1021/acsnano.0c10601"
+
+- year: 2021
+  title: "Off balance and over the edge"
+  authors: "Ciccarino, C.J., Narang, P."
+  journal: "News and Views, Nature Nanotechnology"
+  volume: 16
+  pages: "4-5"
+  month: 1
+  doi: "https://www.nature.com/articles/s41565-020-00815-x"
+
+- year: 2021
+  title: "Deep subwavelength thermal switch via resonant mode coupling in monolayer hexagonal boron nitride"
+  authors: "Papadakis, G.T., Ciccarino, C.J.<sup>★</sup>, Fan, L.<sup>★</sup>, Orenstein, M., Narang, P., Fan, S."
+  journal: "Physical Review Applied"
+  volume: 15
+  issue: 5
+  number: 054002
+  doi: "https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.054002"
+  month: 5
+
+- year: 2021
+  title: "Quantum information and algorithms for correlated quantum matter"
+  authors: "Head-Marsden, K.<sup>★</sup>, Flick, J.<sup>★</sup>, Ciccarino, C.J., Narang, P."
+  journal: "Chemical Reviews"
+  volume: 121
+  issue: 5 
+  pages: "3061-3120"
+  month: 12
+  doi: "https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.0c00620"
+
+- year: 2020
+  title: "Theoretical investigation of charge density wave instability in CuS<sub>2</sub>"
+  authors: "Yin, Y., Coulter, J., Ciccarino, C.J., Narang, P."
+  journal: "Physical Review Materials"
+  volume: 4
+  issue: 10
+  number: 104001
+  month: 10
+  doi: "https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.104001"
+
+- year: 2020
+  title: "Strong spin-orbit quenching via the product Jahn-Teller effect in neutral group IV qubits in diamond"
+  journal: "npj Quantum Materials"
+  authors: "Ciccarino, C.J.<sup>★</sup>, Flick, J.<sup>★</sup>, Harris, I., Trusheim, M., Englund, D.R., Narang, P."
+  volume: 5
+  number: 75 
+  month: 10
+  doi: "https://www.nature.com/articles/s41535-020-00281-7"
+
+- year: 2020
+  title: "Group III quantum defects in diamond are stable spin-1 color centers"
+  authors: "Harris, I.<sup>★</sup>, Ciccarino, C.J.<sup>★</sup>, Flick, J., Englund, D.R., Narang, P."
+  journal: "Physical Review B"
+  volume: 102
+  number: 195206
+  issue: 19
+  month: 11
+  doi: "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.195206"
+
+- year: 2020
+  title: "Low-temperature electron-phonon interaction of quantum emitters in hexagonal Boron Nitride"
+  journal: "ACS Photonics"
+  authors: "Grosso, G., Moon, H., Ciccarino, C.J., Flick, J., Mendelson, N., Toth, M., Aharonovich, I., Narang, P., Englund, D.R."
+  volume: 7
+  issue: 6
+  pages: "1410-1417"
+  doi: "https://pubs.acs.org/doi/abs/10.1021/acsphotonics.9b01789"
+  month: 5
+
+- year: 2020
+  title: "Correlating the three-dimensional atomic defects and electronic properties of two-dimensional transition metal dichalcogenides"
+  authors: "Tian, X.<sup>★</sup>, Kim, D.S.<sup>★</sup>, Yang, S.<sup>★</sup>,  Ciccarino, C.J., Gong, Y., Yang, Y., Yang, Y., Duschatko, B., Ajayan, P. M., Idrobo, J-.C., Narang, P., Miao, J."
+  journal: "Nature Materials"
+  volume: 19
+  pages: "867-873"
+  doi: "https://www.nature.com/articles/s41563-020-0636-5"
+  month: 3
+
+- year: 2020 
+  title: "Revealing multiple classes of stable quantum emitters in hexagonal boron nitride with correlated optical and electron microscopy"
+  authors: "Hayee, F., Yu, L., Zhang, J.L, Ciccarino, C.J., Nguyen, M., Marshall, A.F., Aharonovich, I., Vuckovic, J., Narang, P."
+  journal: "Nature Materials"
+  volume: 19
+  pages: "534-539"
+  month: 2
+  doi: "https://www.nature.com/articles/s41563-020-0616-9"
+
+- year: 2019
+  title: "Quantum Materials with Atomic Precision: Artificial Atoms in Solids"
+  authors: "Narang, P., Ciccarino, C.J., Flick, J., Englund, D.R."
+  journal: "Advanced Functional Materials"
+  volume: 29 
+  issue: 52 
+  number: 1904557
+  doi: "https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201904557"
+  month: 9
+
+- year: 2019
+  title: "Phonon Polaritons in Monolayers of Hexagonal Boron Nitride"
+  authors: "Dai, S., Fang, W., Rivera, N., Stehle, Y., Jiang, B., Shen, J., Tay, R.-Y., Ciccarino, C.J., Ma, Q., Rodan-Legrain, D., Jarillo-Herrero, P., Teo, E.H.T., Fogler, M.M., Narang, P., Kong, J., Basov, D.N."
+  journal: "Advanced Materials"
+  volume: 31
+  issue: 37
+  number: 1806603
+  doi: "https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201806603"
+  month: 7
+
+- year: 2019
+  title: "Ultrafast Electron Dynamics in Single Crystal Aluminum Nanostructures"
+  authors: "Su, M.N., Ciccarino, C.J.<sup>★</sup>,  Kumar, S.<sup>★</sup>, Dongare, P., Jebeli, S.A.H., Renard, D., Zhang, Y., Ostovar, B., Chang, W.S., Nordlander, P., Halas, N.J., Sundararaman, R., Narang, P., Link, S."
+  journal: "Nano Letters"
+  volume: 19
+  issue: 5
+  pages: "3091-3097"
+  doi: "https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.9b00503"
+  month: 4
+
+- year: 2019
+  title: "Lead-Related Quantum Emitters in Diamond"
+  authors: "Trusheim, M.E.<sup>★</sup>, Wan, N.H.<sup>★</sup>, Chen, K.C.<sup>★</sup>, Ciccarino, C.J., Flick, J., Sundararaman, R., Malladi, G., Bersin, E., Walsh, M., Leinhard, B., Bakhru, H., Narang, P., Englund, D."
+  journal: "Physical Review B"
+  volume: 99 
+  number: 075430
+  doi: "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.075430"
+  month: 2
+
+- year: 2019
+  title: "Carrier Dynamics and Spin-Valley-Layer Effects in Bilayer Transition Metal Dichalcogenides"
+  authors: "Ciccarino, C.J., Chakraborty, C. Englund, D.R., Narang, P."
+  journal: "Faraday Discussions"
+  volume: 214 
+  pages: "175-188"
+  doi: "https://pubs.rsc.org/en/content/articlelanding/2019/fd/c8fd00159f/unauth"
+  month: 11
+
+- year: 2018
+  title: "Electron-Impact Ionization of Atomic Nitrogen"
+  authors: "Ciccarino, C.J., Savin, D.W."
+  journal: "Journal of Thermophysics and Radiative Heat Transfer"
+  volume: 33
+  number: 1
+  month: 9
+  doi: "https://arc.aiaa.org/doi/abs/10.2514/1.T5463"
+
+- year: 2018
+  title: "Dynamics and Spin-Valley Locking Effects in Monolayer Transition Metal Dichalcogenides"
+  authors: "Ciccarino, C.J., Christensen, T., Sundararaman, R., Narang, P."
+  journal: "Nano Letters"
+  volume: 18
+  issue: 9
+  pages: "5709-5715"
+  month: 8
+  doi: "https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.8b02300"
+
