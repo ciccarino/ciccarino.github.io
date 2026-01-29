@@ -19,8 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Ciccarino Group
+subtitle: at Santa Clara University
 url: "htpps://ciccarino-group.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 description: "Website for Ciccarino Research Group" 
+email: cciccarino@scu.edu
 
 # Build settings
 theme: minimal-mistakes-jekyll

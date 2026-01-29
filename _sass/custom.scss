@@ -12,23 +12,23 @@ body div {
 }
 */
 
-$scu-red: #862633;
-$navy-blue: #000080;
-$steel-blue: #4682B4;
-$scu-blue: #5B6770;
+$scu-red: #A32035;
+$bronco-red: #862633;
+$scu-blue: #758592;
 $scu-green: #737B4C;
-$scu-yellow: #EAAA00;
+//$scu-yellow: #EAAA00;
+$scu-yellow: #FFB600;
 
 .page__content p {
   color: $darker-gray !important;
 }
 
 .page__content a {
-  color: $scu-red !important;
+  color: $scu-blue !important;
 }
 
 .page__content a:hover {
-  color: $scu-blue !important;
+  color: $scu-yellow !important;
 }
 
 .page__title, .page__title a {
@@ -42,6 +42,8 @@ $scu-yellow: #EAAA00;
 .masthead__menu-item a {
   color: $scu-red !important;
 }
+
+
 
 /* 
 .masthead__menu-item a::after {
@@ -64,7 +66,19 @@ $scu-yellow: #EAAA00;
 */
 
 .page__footer {
-  background-color: $scu-red !important;
+  background-color: $bronco-red !important;
+}
+
+.site-title {
+  color: $bronco-red !important;
+}
+
+.archive__item a {
+  color: $scu-red !important;
+}
+
+.archive__item a:hover {
+  color: $scu-blue !important;
 }
 
 
