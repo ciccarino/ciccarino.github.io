@@ -20,13 +20,15 @@
 
 title: Ciccarino Group
 subtitle: at Santa Clara University
-url: "htpps://ciccarino-group.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+url: "https://ciccarino.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 description: "Website for Ciccarino Research Group" 
 email: cciccarino@scu.edu
 
 # Build settings
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "contrast"
+
 
 # navigation links 
 navigation: main 
@@ -42,6 +44,8 @@ search: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-include-cache
+  - github-pages 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
