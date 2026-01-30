@@ -5,7 +5,8 @@ search: false
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+//@import "custom";
+@import "minimal-mistakes/skins/contrast"; // skin
 @import "minimal-mistakes"; // main partials
 @import "custom"; // here we can override things
 

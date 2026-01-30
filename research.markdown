@@ -2,6 +2,7 @@
 layout: single
 title: Research
 permalink: /research/
+classes: wide
 ---
 
 <style>

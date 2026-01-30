@@ -4,6 +4,7 @@
 # insert an image at the top 
 layout: home
 title: "" 
+classes: wide
 ---
 
 

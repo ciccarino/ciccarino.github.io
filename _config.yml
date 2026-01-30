@@ -29,6 +29,10 @@ email: cciccarino@scu.edu
 #theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "contrast"
 
+sass:
+  load_paths:
+    - _themes/minimal-mistakes/_sass
+    - _themes/minimal-mistakes/_sass/minimal-mistakes
 
 # navigation links 
 navigation: main 
