@@ -8,5 +8,6 @@ search: false
 //@import "custom";
 @import "minimal-mistakes/skins/contrast"; // skin
 @import "minimal-mistakes"; // main partials
+@import "minimal-mistakes/vendor/breakpoint/breakpoint";
 @import "custom"; // here we can override things
 
