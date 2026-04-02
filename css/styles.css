@@ -1,0 +1,72 @@
+
+/*
+$scu-red: #A32035;
+$bronco-red: #862633;
+$scu-blue: #758592;
+$scu-green: #737B4C;
+//$scu-yellow: #EAAA00;
+$scu-yellow: #FFB600;
+
+TODO: add hover colors, change font size?
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    line-height: 1.6;
+}
+
+/* Header + navigation */
+header {
+    background: #A32035;
+    color: white;
+    padding: 1rem 2rem;
+}
+
+nav {
+    display: flex;
+    gap: 1rem;
+    margin-top: 0.5rem;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+nav a.active {
+    text-decoration: underline;
+}
+
+/* Layout */
+section {
+    padding: 2rem;
+    max-width: 900px;
+    margin: auto;
+}
+
+h2 {
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 0.5rem;
+}
+
+/* Cards */
+.card {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin: 1rem 0;
+    border-radius: 8px;
+}
+
+/* Footer */
+footer {
+    background: /#f4f4f4;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
